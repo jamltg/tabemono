@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tabemono/static/css/main.50c808ab.css",
+    "main.js": "/tabemono/static/js/main.ad277e4a.js",
+    "index.html": "/tabemono/index.html",
+    "main.50c808ab.css.map": "/tabemono/static/css/main.50c808ab.css.map",
+    "main.ad277e4a.js.map": "/tabemono/static/js/main.ad277e4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50c808ab.css",
+    "static/js/main.ad277e4a.js"
+  ]
+}
