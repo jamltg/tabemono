@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tabemono/static/css/main.f52c019e.css",
-    "main.js": "/tabemono/static/js/main.ecc4cab9.js",
+    "main.css": "/tabemono/static/css/main.470a8c94.css",
+    "main.js": "/tabemono/static/js/main.b350362c.js",
     "static/media/resto.jpg": "/tabemono/static/media/resto.e5d473c079caafe3d105.jpg",
     "static/media/Shikamaru.ttf": "/tabemono/static/media/Shikamaru.77207c043b9603ee8202.ttf",
     "index.html": "/tabemono/index.html",
-    "main.f52c019e.css.map": "/tabemono/static/css/main.f52c019e.css.map",
-    "main.ecc4cab9.js.map": "/tabemono/static/js/main.ecc4cab9.js.map"
+    "main.470a8c94.css.map": "/tabemono/static/css/main.470a8c94.css.map",
+    "main.b350362c.js.map": "/tabemono/static/js/main.b350362c.js.map"
   },
   "entrypoints": [
-    "static/css/main.f52c019e.css",
-    "static/js/main.ecc4cab9.js"
+    "static/css/main.470a8c94.css",
+    "static/js/main.b350362c.js"
   ]
 }
