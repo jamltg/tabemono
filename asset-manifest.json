@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tabemono/static/css/main.dbc91207.css",
-    "main.js": "/tabemono/static/js/main.281e6ccb.js",
+    "main.js": "/tabemono/static/js/main.2b90820d.js",
     "static/media/maki2.jpg": "/tabemono/static/media/maki2.7579ea40ce57e7111d2b.jpg",
     "static/media/sashimi.jpg": "/tabemono/static/media/sashimi.03ba5d8164b5fd2225fe.jpg",
     "static/media/resto.jpg": "/tabemono/static/media/resto.e5d473c079caafe3d105.jpg",
@@ -16,10 +16,10 @@
     "static/media/Shikamaru.ttf": "/tabemono/static/media/Shikamaru.77207c043b9603ee8202.ttf",
     "index.html": "/tabemono/index.html",
     "main.dbc91207.css.map": "/tabemono/static/css/main.dbc91207.css.map",
-    "main.281e6ccb.js.map": "/tabemono/static/js/main.281e6ccb.js.map"
+    "main.2b90820d.js.map": "/tabemono/static/js/main.2b90820d.js.map"
   },
   "entrypoints": [
     "static/css/main.dbc91207.css",
-    "static/js/main.281e6ccb.js"
+    "static/js/main.2b90820d.js"
   ]
 }
