@@ -1,0 +1,17 @@
+[
+  {
+    "title":"Tataki Roll",
+    "description":"Savor the perfection of our Tataki Roll, harmonizing crab meat, Japanese mayo, and sesame oil with cucumber, white fish, and yuzu mayo alioli. Finished with crispy fried leeks, each bite is a culinary revelation that will transport your taste buds to new heights of delight.",
+    "url": "images/maki3.jpg"
+  },
+  {
+    "title":"Keiken (Experience) Nigiri Set",
+    "description":"Immerse yourself in an unforgettable culinary journey with our Keiken (Experience) Nigiri Set. Featuring a tantalizing combination of aburi salmon, chalaquita nigiri, and Tabemono nigiri, each piece is a testament to exquisite taste and artful presentation. Prepare to be enchanted by the symphony of flavors and textures that await with every bite.",
+    "url": "images/sushi.jpg"
+  },
+  {
+    "title":"Shoyu Ramen",
+    "description": "Experience comfort in a bowl with our Shoyu Ramen. Delight in the harmonious blend of chili oil, soft-boiled eggs, sesame seeds, fish cake, chashu, and bonito flakes, creating a symphony of flavors that will warm your soul with every savory slurp.",
+    "url": "images/ramen2.jpg"
+  }
+]
